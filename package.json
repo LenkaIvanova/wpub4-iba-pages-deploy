@@ -1,0 +1,17 @@
+{
+  "name": "wpub4-iba-pages-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d spa"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "home": "https://LenkaIvanova.github.io/wpub4-iba-pages-deploy",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
