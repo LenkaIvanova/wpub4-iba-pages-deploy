@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "home": "https://lenkaivanova.github.io/wpub4-iba-pages-deploy/spa",
+  "homepage": "https://lenkaivanova.github.io/wpub4-iba-pages-deploy",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
